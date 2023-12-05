@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+/* Add these styles to your CSS */
+.app {
+  transition: background-color 0.3s ease;
+}
+
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
